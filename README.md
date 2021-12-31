@@ -8,6 +8,7 @@
 - My LinkedIn [profile](https://www.linkedin.com/in/SamedZirhlioglu).
 - My YouTube [channel](https://www.youtube.com/SamedZirhlioglu).
 - My all public [repositories](https://github.com/SamedZirhlioglu?tab=repositories).
+- [Contact me!](mailto:zirhlioglusamed@gmail.com)
 
 ## Patates Games
 
