@@ -16,5 +16,4 @@
 - Patates Games [website](https://patatesgames.com).
 - Patates Games [LinkedIn page](https://www.linkedin.com/company/patatesgames).
 
-
-![Patates Games Logo](./patates_games_logo.png)
+<img src="./patates_games_logo.png" width="256">
