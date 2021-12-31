@@ -1,15 +1,20 @@
-### Hi there 👋
+# Samed Zırhlıoğlu
+
+## SamedZZZZ
+
+>I have been using computers since 2005 and programming since 2011. I started with desktop apps. Then I progressed to web design, Android development, and game development. While doing all this, I also worked on cybersecurity.
+
+- My GitHub [website](https://SamedZirhlioglu.github.io).
+- My LinkedIn [profile](https://www.linkedin.com/in/SamedZirhlioglu).
+- My YouTube [channel](https://www.youtube.com/SamedZirhlioglu).
+- My all public [repositories](https://github.com/SamedZirhlioglu?tab=repositories).
+
+## Patates Games
+
+>Patates Games is an independent game development studio based in Turkey. It was established in the first quarter of 2021.
+
+- Patates Games [website](https://patatesgames.com).
+- Patates Games [LinkedIn page](https://www.linkedin.com/company/patatesgames).
 
 
-**SamedZirhlioglu/SamedZirhlioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Patates Games Logo](./patates_games_logo.png)
