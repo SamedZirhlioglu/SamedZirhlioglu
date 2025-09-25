@@ -16,6 +16,6 @@
 
 - Patates Games [website](https://patatesgames.com).
 - Patates Games [LinkedIn](https://www.linkedin.com/company/patatesgames).
-- Patates Games [contact](mailto:infopatatesgames@gmail.com).
+- Patates Games [contact](mailto:info@patatesgames.com).
 
 <img src="./patates_games_logo.png" width="256">
